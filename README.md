@@ -1,6 +1,8 @@
 # fraud_detect
 lecture(deep-learning) team project
 
+dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 fraud detection with supervised/unsupervised/semi-supervised learning
 
 Used model 
