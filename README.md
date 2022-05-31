@@ -3,7 +3,7 @@ lecture(deep-learning) team project
 
 dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-fraud detection with supervised/unsupervised/semi-supervised learning
+Credit card fraud detection with supervised/unsupervised/semi-supervised learning
 
 Used model 
 - supervised : feed-forward neural network
