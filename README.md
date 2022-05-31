@@ -9,5 +9,5 @@ Used model
 - semi-supervised : autoencoder with logistic regression (encoder output - logistic regression)
 
 File
-FNN.ipynb : feed-forward neural network
-Autoencoder_logistic.ipynb : Autoencoder followed by autoencoder with logistic regression
+- FNN.ipynb : feed-forward neural network
+- Autoencoder_logistic.ipynb : Autoencoder followed by autoencoder with logistic regression
